@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lies/follow-your-passion", {data:[{}],fetch:[],mutations:[]});

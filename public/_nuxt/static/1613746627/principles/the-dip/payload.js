@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/the-dip", {data:[{}],fetch:[],mutations:[]});

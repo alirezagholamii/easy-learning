@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/choice-vs-chore", {data:[{}],fetch:[],mutations:[]});

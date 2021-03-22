@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/learning-vs-winning-the-system", {data:[{}],fetch:[],mutations:[]});

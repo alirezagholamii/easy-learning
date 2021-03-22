@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/what-is-success", {data:[{}],fetch:[],mutations:[]});

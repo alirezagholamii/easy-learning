@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{239:function(t,e,n){"use strict";n.r(e);var c={},r=n(17),component=Object(r.a)(c,(function(){var t=this.$createElement;this._self._c;return this._m(0)}),[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("p",[this._v("در حال ترجمه")])])}],!1,null,"66c6a86e",null);e.default=component.exports}}]);

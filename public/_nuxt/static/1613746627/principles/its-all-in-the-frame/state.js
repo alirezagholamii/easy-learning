@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1613746627",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},state:{sidebarState:"hidden"},serverRendered:false,routePath:a,config:{}}}("\u002Fprinciples\u002Fits-all-in-the-frame"));

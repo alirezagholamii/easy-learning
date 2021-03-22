@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/pillars", {data:[{}],fetch:[],mutations:[]});

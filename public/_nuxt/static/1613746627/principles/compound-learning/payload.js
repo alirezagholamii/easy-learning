@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/compound-learning", {data:[{}],fetch:[],mutations:[]});

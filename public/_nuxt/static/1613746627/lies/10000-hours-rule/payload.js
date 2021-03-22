@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lies/10000-hours-rule", {data:[{}],fetch:[],mutations:[]});

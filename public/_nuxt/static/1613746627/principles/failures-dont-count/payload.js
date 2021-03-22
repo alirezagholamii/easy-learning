@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/principles/failures-dont-count", {data:[{}],fetch:[],mutations:[]});

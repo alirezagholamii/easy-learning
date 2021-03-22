@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lies/trust-this-one-person", {data:[{}],fetch:[],mutations:[]});

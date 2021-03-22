@@ -1,0 +1,92 @@
+@font-face {
+  font-family: IRANyekan;
+  src: url("~assets/font/iranyekanwebregular.woff") format("woff");
+  font-weight: normal;
+}
+@font-face {
+  font-family: IRANsans;
+  src: url("~assets/font/IRANSansWeb(FaNum).woff") format("woff");
+  font-weight: normal;
+}
+@font-face {
+  font-family: VarelaRound;
+  src: url("~assets/font/VarelaRound-Regular.ttf") format("TrueType");
+  font-weight: normal;
+}
+
+html {
+  // font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+  //   sans-serif;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+
+  // direction: rtl;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  padding-top: 0;
+  font-family: IRANsans, "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #304455;
+  background-color: #fff;
+  margin: 0;
+  direction: rtl;
+
+  @include atScreen($medium) {
+    padding-top: 61px;
+  }
+}
+
+.main {
+  position: relative;
+  z-index: 1;
+  padding: 2em 1.4em 0;
+  overflow-x: hidden;
+  @include atScreen($medium) {
+    padding: 0 60px 30px;
+  }
+}
+
+.fix-sidebar {
+  position: static;
+}
+
+.content {
+  position: relative;
+  padding: 35px 0;
+  max-width: 750px;
+  margin: 0 auto;
+  @include atScreen($medium) {
+    padding-right: 50px;
+  }
+}
+
+.english {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: all 0.25s ease-out;
+}
+.page-enter-from,
+.page-leave-to {
+  opacity: 0;
+  // transform: scale(0.95);
+  // transform-origin: 50% 50%;
+}

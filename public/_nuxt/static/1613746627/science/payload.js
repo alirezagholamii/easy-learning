@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/science", {data:[{}],fetch:[],mutations:[]});

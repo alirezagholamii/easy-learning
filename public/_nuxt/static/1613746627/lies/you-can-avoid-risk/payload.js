@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/lies/you-can-avoid-risk", {data:[{}],fetch:[],mutations:[]});

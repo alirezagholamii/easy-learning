@@ -1,0 +1,23 @@
+.page {
+
+  .main-header {
+    margin-bottom: 1rem;
+  }
+  .second-header {
+    margin-bottom: 0.8rem;
+  }
+  p {
+    line-height: 1.6em;
+    margin: 1.2em 0 -1.2em;
+    padding-bottom: 1.2em;
+    position: relative;
+    z-index: 1;
+    text-align: justify;
+
+  }
+  a {
+    color: #42b983;
+    font-weight: 600;
+    text-decoration: none;
+  }
+}
